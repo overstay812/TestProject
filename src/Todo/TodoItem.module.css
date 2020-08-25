@@ -1,0 +1,23 @@
+.li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+    border:1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: .5rem;
+}
+.input {
+    margin-right: 1rem;
+}
+.removeBtn {
+    background: red;
+    border-radius: 50%;
+    color: #fff;
+    border: none;
+    
+
+}
+.done {
+    text-decoration: line-through;
+}
